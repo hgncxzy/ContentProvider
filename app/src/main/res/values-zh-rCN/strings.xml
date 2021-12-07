@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestContentProvider</string>
+    <string name="hello">你好</string>
+    <string name="btn_change_language">切换语言</string>
+    <string name="btn_change_timezone">切换时区</string>
+</resources>

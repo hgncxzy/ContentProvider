@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestContentProvider</string>
+    <string name="hello">Hello</string>
+    <string name="btn_change_language">change language</string>
+    <string name="btn_change_timezone">change timezone</string>
+</resources>
